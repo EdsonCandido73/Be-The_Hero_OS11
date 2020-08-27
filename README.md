@@ -21,10 +21,7 @@
     <img alt="" title="" src=".github/web2.png">
     <img alt="" title="" src=".github/web3.png">
     <img alt="" title="" src=".github/web4.png">
-    <img alt="" title="" src=".github/mobile1.png">
-    <img alt="" title="" src=".github/mobile2.png">
-    <img alt="" title="" src=".github/mobile3.png">
-    <img alt="" title="" src=".github/mobile4.png">
+    <img alt="" title="" src=".github/mobile.png">
 </p>
 
 
